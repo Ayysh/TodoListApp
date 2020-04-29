@@ -19,6 +19,7 @@
  - Create a cluster with username and pwd.
  - Go to Clusters->connect ->connect with mongoshell -and copy-past the MongoShell command in the commandline and give username and pwd.
  - In the new terminal, go to project folder path and type -> $ nodemon app.js
+ - To start the Mongo DB server, give $mongod in command line
  
  
  Link to Mongoose Documentation
